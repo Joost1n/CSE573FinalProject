@@ -11,7 +11,7 @@ To run these files, you can simply run
 
 	sh ApplyCommunityDetection.sh
 
-which will automatically read the data, run both files, and output a graph named "finalGraphOfNodes.gexf" which can be put into an application like Gephi for visualization
+which will automatically read the data, run both files, and output a graph named "finalGraphOfNodes.gexf" which can be put into an application like Gephi for visualization. NOTE: You will need to make sure you install the relevant dependencies.
 
 The results (visualization) of our runs are within the /Evaluations directory, along with our powerpoint describing our process and findings.
 
