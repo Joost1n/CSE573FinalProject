@@ -8,7 +8,7 @@ The first step was to apply the Louvain Community Detection Algorithm to our ful
 The second step was to take these strong communities and merge them based on pairwise interactions between nodes in the communities until only two communities remained.
 
 To run these files, you can simply run 
-	sh ApplyCommunityDetection.sh
+	\nsh ApplyCommunityDetection.sh\n
 which will automatically read the data, run both files, and output a graph named "finalGraphOfNodes.gexf" which can be put into an application like Gephi for visualization
 
 The results (visualization) of our runs are within the /Evaluations directory, along with our powerpoint describing our process and findings.
