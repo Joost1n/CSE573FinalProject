@@ -1,0 +1,2 @@
+python LouvainStrongCommunityDetection.py
+python LouvainMergeCommunities.py
